@@ -1,0 +1,79 @@
+
+   body{
+       
+       
+        background: linear-gradient(rgba(0, 0, 0, 0.555),rgba(0, 0, 0, 0.555)), url(netflix.png);
+    } 
+h1{
+    color: red;
+    margin-top: 2px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+
+}
+
+form div input{
+    border: 1px solid;
+    
+    height: 40px;
+    width: 200px;
+    background-color: rgb(42, 42, 42);
+    color:white;
+    margin-right: 10px;
+    margin-left: 80px;
+    padding-left: 10px;
+}
+span{
+    text-align: center;
+}
+span button{
+    margin-right: 10px;
+    margin-left: 80px;
+    text-align: center;
+    border: 1px solid;
+    height: 40px;
+    width: 215px;
+    background-color: rgba(255, 0, 0, 0.637);
+    color: white;
+    
+}
+ span input {
+    margin-right: 10px;
+    margin-left: 80px;
+   
+}
+h2{
+    text-align: center;
+    margin-right: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+form{
+    border: 1px solid;
+    border-color: black;
+    background-color: rgba(0, 0, 0, 0.877);
+    color: white;
+   margin-right: 450px;
+   margin-left: 400px;
+   height: 450px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a.blue{
+    color: blue;
+}
+p{
+    text-indent: 0px;
+}
+button:hover{
+    color: black;
+    background-color: beige;
+}
+small{
+   
+    margin-left: 35px;
+}
+a:hover{
+    color: red;
+}
